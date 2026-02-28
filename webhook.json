@@ -1,0 +1,8 @@
+{
+  "config": {
+    "url": "https://share.streamlit.io/api/deploy/hook",
+    "content_type": "json"
+  },
+  "events": ["push"],
+  "active": true
+}
